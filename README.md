@@ -7,9 +7,10 @@ The goal of the project is to demonstrate skills in **data modeling** and **SQL 
 
 ## 📂 Folder Contents
 
+- `cs_airbnb_analysis.sql`: SQL script containing all queries.
+There were also supposed to have the 3 following files, but I can't download them of Github due to their size (>100 MB). However, you can download the two csv files on [Maven Analytics](https://mavenanalytics.io/data-playground) by looking for the Airbnb Listings & Reviews dataset. 
 - `Listings.csv`: List of Airbnb listings with their different features (price, location, bedrooms, ratings, etc.)
 - `Reviews.csv`: List of Reviews from users (with ID, and date).
-- `cs_airbnb_analysis.sql`: SQL script containing all queries.
 - `cs_airbnb.db`: SQLite database used for the project.
 
 ## 📌 Objectives
