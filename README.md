@@ -2,7 +2,7 @@
 
 This project uses an open-source dataset on Airbnb Listings & Reviews. (Source: Maven Analytics)
 The data provide informations for 250,000+ listings in 10 major cities, including information about hosts, pricing, location, and room type, along with over 5 million historical reviews.
-The goal of the project is to demonstrate skills in **data modeling** and **SQL querying**.
+The goal of the project is to demonstrate skills in **data modeling**, **SQL querying** and **Project documentation**.
 
 
 ## 📂 Folder Contents
